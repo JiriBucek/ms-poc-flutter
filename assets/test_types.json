@@ -1,0 +1,311 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "MilkSafe™ 4BTCC",
+            "description": null,
+            "negativeValue": 1.1,
+            "positiveValue": 0.9,
+            "judgeType": "Height",
+            "judgingDirection": "ReverseJudgement",
+            "brand": "MilkSafe",
+            "substances": [
+                {
+                    "readerIndex": 2,
+                    "testTypeId": 1,
+                    "substance": {
+                        "name": "Chloramphenicol",
+                        "id": 1,
+                        "description": null
+                    }
+                },
+                {
+                    "readerIndex": 1,
+                    "testTypeId": 1,
+                    "substance": {
+                        "name": "Tetracyclines",
+                        "id": 4,
+                        "description": null
+                    }
+                },
+                {
+                    "readerIndex": 3,
+                    "testTypeId": 1,
+                    "substance": {
+                        "name": "Beta-lactams",
+                        "id": 5,
+                        "description": null
+                    }
+                },
+                {
+                    "readerIndex": 0,
+                    "testTypeId": 1,
+                    "substance": {
+                        "name": "Cephalexin",
+                        "id": 6,
+                        "description": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "MilkSafe™ 4BTSC",
+            "description": null,
+            "negativeValue": 1.1,
+            "positiveValue": 0.9,
+            "judgeType": "Height",
+            "judgingDirection": "ReverseJudgement",
+            "brand": "MilkSafe",
+            "substances": [
+                {
+                    "readerIndex": 1,
+                    "testTypeId": 2,
+                    "substance": {
+                        "name": "Chloramphenicol",
+                        "id": 1,
+                        "description": null
+                    }
+                },
+                {
+                    "readerIndex": 0,
+                    "testTypeId": 2,
+                    "substance": {
+                        "name": "Streptomycin",
+                        "id": 2,
+                        "description": null
+                    }
+                },
+                {
+                    "readerIndex": 2,
+                    "testTypeId": 2,
+                    "substance": {
+                        "name": "Tetracyclines",
+                        "id": 4,
+                        "description": null
+                    }
+                },
+                {
+                    "readerIndex": 3,
+                    "testTypeId": 2,
+                    "substance": {
+                        "name": "Beta-lactams",
+                        "id": 5,
+                        "description": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "MilkSafe™ 3BTS",
+            "description": null,
+            "negativeValue": 1.1,
+            "positiveValue": 0.9,
+            "judgeType": "Height",
+            "judgingDirection": "ReverseJudgement",
+            "brand": "MilkSafe",
+            "substances": [
+                {
+                    "readerIndex": 3,
+                    "testTypeId": 3,
+                    "substance": {
+                        "name": "Sulfonamides",
+                        "id": 3,
+                        "description": null
+                    }
+                },
+                {
+                    "readerIndex": 0,
+                    "testTypeId": 3,
+                    "substance": {
+                        "name": "Tetracyclines",
+                        "id": 4,
+                        "description": null
+                    }
+                },
+                {
+                    "readerIndex": 2,
+                    "testTypeId": 3,
+                    "substance": {
+                        "name": "Beta-lactams",
+                        "id": 5,
+                        "description": null
+                    }
+                },
+                {
+                    "readerIndex": 1,
+                    "testTypeId": 3,
+                    "substance": {
+                        "name": "Ceftiofur",
+                        "id": 7,
+                        "description": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "MilkSafe™ 3BTC",
+            "description": null,
+            "negativeValue": 1.1,
+            "positiveValue": 0.9,
+            "judgeType": "Height",
+            "judgingDirection": "ReverseJudgement",
+            "brand": "MilkSafe",
+            "substances": [
+                {
+                    "readerIndex": 0,
+                    "testTypeId": 4,
+                    "substance": {
+                        "name": "Tetracyclines",
+                        "id": 4,
+                        "description": null
+                    }
+                },
+                {
+                    "readerIndex": 3,
+                    "testTypeId": 4,
+                    "substance": {
+                        "name": "Beta-lactams",
+                        "id": 5,
+                        "description": null
+                    }
+                },
+                {
+                    "readerIndex": 2,
+                    "testTypeId": 4,
+                    "substance": {
+                        "name": "Cephalexin",
+                        "id": 6,
+                        "description": null
+                    }
+                },
+                {
+                    "readerIndex": 1,
+                    "testTypeId": 4,
+                    "substance": {
+                        "name": "Ceftiofur",
+                        "id": 7,
+                        "description": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "MilkSafe™ 2BC",
+            "description": null,
+            "negativeValue": 1.1,
+            "positiveValue": 0.9,
+            "judgeType": "Height",
+            "judgingDirection": "ReverseJudgement",
+            "brand": "MilkSafe",
+            "substances": [
+                {
+                    "readerIndex": 2,
+                    "testTypeId": 5,
+                    "substance": {
+                        "name": "Beta-lactams",
+                        "id": 5,
+                        "description": null
+                    }
+                },
+                {
+                    "readerIndex": 1,
+                    "testTypeId": 5,
+                    "substance": {
+                        "name": "Cephalexin",
+                        "id": 6,
+                        "description": null
+                    }
+                },
+                {
+                    "readerIndex": 0,
+                    "testTypeId": 5,
+                    "substance": {
+                        "name": "Ceftiofur",
+                        "id": 7,
+                        "description": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "MilkSafe™ Afla M1 500",
+            "description": null,
+            "negativeValue": 1.1,
+            "positiveValue": 1.1,
+            "judgeType": "Height",
+            "judgingDirection": "ReverseJudgement",
+            "brand": "MilkSafe",
+            "substances": [
+                {
+                    "readerIndex": 0,
+                    "testTypeId": 7,
+                    "substance": {
+                        "name": "Aflatoxin M1 500ppt",
+                        "id": 8,
+                        "description": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "MilkSafe™ 4BTSQ",
+            "description": null,
+            "negativeValue": 1.1,
+            "positiveValue": 0.9,
+            "judgeType": "Height",
+            "judgingDirection": "ReverseJudgement",
+            "brand": "MilkSafe",
+            "substances": [
+                {
+                    "readerIndex": 2,
+                    "testTypeId": 8,
+                    "substance": {
+                        "name": "Sulfonamides",
+                        "id": 3,
+                        "description": null
+                    }
+                },
+                {
+                    "readerIndex": 0,
+                    "testTypeId": 8,
+                    "substance": {
+                        "name": "Tetracyclines",
+                        "id": 4,
+                        "description": null
+                    }
+                },
+                {
+                    "readerIndex": 1,
+                    "testTypeId": 8,
+                    "substance": {
+                        "name": "Beta-lactams",
+                        "id": 5,
+                        "description": null
+                    }
+                },
+                {
+                    "readerIndex": 3,
+                    "testTypeId": 8,
+                    "substance": {
+                        "name": "Quinolones",
+                        "id": 9,
+                        "description": null
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "total": 7,
+        "perPage": 20,
+        "currentPage": 1,
+        "totalPages": 1,
+        "recordsInDataset": 7
+    }
+}
